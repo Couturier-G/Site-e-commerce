@@ -9,7 +9,7 @@
 * Javascript  
 
 ## Pré requis :
-* Installation de Node et Npm sur votrte machine.  
+* Installation de Node et Npm sur votre machine.  
 
 ## Installation :
 * Clonez le dossier "Site-e-commerce"
